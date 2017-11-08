@@ -11,7 +11,7 @@ I've also added the video processing functionality. These are two sample results
 
 [Belorussian-Lithuanian border queue of trucks](https://youtu.be/tOUDx5okQ7c)
 
-[Random drive through Moscow traffic](https://youtu.be/nInh6jpBchU)
+[Random drive through Moscow traffic in September 2012](https://youtu.be/nInh6jpBchU)
 
 I've tested image horizontal flipping and random brightness adjustment as the **data augmentation techniques**, but it didn't seem to yield any visible improvement.
 
