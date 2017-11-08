@@ -11,7 +11,7 @@ I've also added the video processing functionality. These are two sample results
 
 [Random drive through Moscow traffic](https://youtu.be/nInh6jpBchU)
 
-I've tested image horizontal flipping and random brightness adjustment as the data augmentation techniques, but it didn't seem to yield any visible improvement.
+I've tested image horizontal flipping and random brightness adjustment as the **data augmentation techniques**, but it didn't seem to yield any visible improvement.
 
 To run the project:
 ```
