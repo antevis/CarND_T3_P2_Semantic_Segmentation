@@ -1,6 +1,6 @@
-#### Udacity's Self-Driving Car Engineer Nanodegree
-#### Term 3, Project 2
-# Semantic Segmentation
+## Udacity's Self-Driving Car Engineer Nanodegree
+### Term 3, Project 2
+### Semantic Segmentation
 
 ### Labelling the drivable area of a road in images using a Fully Convolutional Network (FCN).
 
